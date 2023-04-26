@@ -10,8 +10,7 @@ To get started, you can simply download the sos_interpreter.py file and run it u
 # Usage :space_invader: 
 To start the interpreter, run the following command in your terminal:
 
-# Copy code 
-python sos_interpreter.py
+# Copy code = python sos_interpreter.py
 
 This will start the interpreter in interactive mode, where you can enter commands one at a time. Alternatively, when the program starts, you can specify an .sos file
 
