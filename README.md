@@ -1,7 +1,7 @@
 # :feelsgood: SOSLANG - Sos Programming Language :feelsgood:
 This is a simple interpreter for a programming language called SOS. The SOS language is designed to be easy to read and write and is meant for simple scripting tasks. It was born as a challenge between me and a friend.
 
-Prerequisites :exclamation:
+# Prerequisites :exclamation:
 The interpreter requires Python 3 to be installed on your system, and the following libraries: os and subprocess.
  
 # Getting Started :beer: 
