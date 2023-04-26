@@ -1,4 +1,4 @@
-#:feelsgood: SOSLANG - Sos Programming Language :feelsgood:
+# :feelsgood: SOSLANG - Sos Programming Language :feelsgood:
 This is a simple interpreter for a programming language called SOS. The SOS language is designed to be easy to read and write and is meant for simple scripting tasks. It was born as a challenge between me and a friend.
 
 Prerequisites :exclamation:
