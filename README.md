@@ -23,6 +23,7 @@ Printing: the sos keyword can be used to print the value of a variable, e.g. sos
 
 System Commands: the soo keyword can be used to execute system commands, e.g. soo ls -l
 
+Exit: quit
 
 # Contributing :cry:
 Contributions to this project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
